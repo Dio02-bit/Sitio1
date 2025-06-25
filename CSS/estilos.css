@@ -1,0 +1,31 @@
+body{
+	background:conic-gradient(#BB39EC, #8EDAEA,#A49FE8, #7973D7);
+
+}
+p{
+	font-family: Arial Black;
+	font-size: 14px;
+	color: #174CD6;
+}
+
+h1{
+	text-align: center;
+}
+td{
+	text-align: center;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.texto{
+	border: 4px dashed #BB39EC;
+}
+
+#contenedor{
+	border: 4px double #BB39EC;
+	
+}
+
+
